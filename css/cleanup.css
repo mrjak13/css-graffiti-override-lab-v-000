@@ -6,3 +6,8 @@ div#wall .tag-1 {
 div#wall div#tag-2 {
   display: none;
 }
+
+div#wall div#tag-3.wicked {
+  display: none;
+}
+
